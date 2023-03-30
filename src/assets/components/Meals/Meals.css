@@ -1,0 +1,6 @@
+.Meals {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 20px 25px;
+  gap: 20px;
+}
